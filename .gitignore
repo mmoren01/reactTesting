@@ -1,0 +1,9 @@
+#NODE MODULES
+node_modules
+
+
+#BUILDS
+dist
+
+#PACKAGE-LOCK
+package-lock.json
